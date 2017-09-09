@@ -305,7 +305,7 @@
 
         <edition name="openbox" description="Openbox Window Manager">
             <packages>
-                <pkgname>antergos-openbox-setup</pkgname>
+                <!--<pkgname>antergos-openbox-setup</pkgname>-->
                 <pkgname>arandr</pkgname>
                 <pkgname>conky</pkgname>
                 <pkgname>conky-manager</pkgname>
