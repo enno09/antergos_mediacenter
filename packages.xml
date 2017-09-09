@@ -314,7 +314,7 @@
                 <!--<pkgname>gmrun</pkgname>-->
                 <pkgname>gnome-disk-utility</pkgname>
                 <!--<pkgname>gnome-mplayer</pkgname>-->
-                <pkgname>gpicview</pkgname>
+                <!--<pkgname>gpicview</pkgname>-->
                 <!--<pkgname>gsimplecal</pkgname>-->
                 <!--<pkgname>gvfs-google</pkgname>-->
                 <pkgname>gvfs-mtp</pkgname>
@@ -329,8 +329,8 @@
                 <!--<pkgname>mousepad</pkgname>-->
                 <!--<pkgname>nitrogen</pkgname>-->
                 <pkgname nm='true' name='NetworkManager'>network-manager-applet</pkgname>
-                <pkgname>networkmanager-openvpn</pkgname>
-                <pkgname>networkmanager-pptp</pkgname>
+                <!--<pkgname>networkmanager-openvpn</pkgname>-->
+                <!--<pkgname>networkmanager-pptp</pkgname>-->
                 <pkgname>notify-osd</pkgname>
                 <pkgname>obconf</pkgname>
                 <pkgname>obkey</pkgname>
