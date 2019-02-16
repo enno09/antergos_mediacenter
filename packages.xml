@@ -54,10 +54,10 @@
                 <!--<pkgname>librsvg</pkgname>-->
                 <!--<pkgname>openjpeg2</pkgname>-->
                 <!--<pkgname>dcraw</pkgname>-->
-                <!--<pkgname>mdadm</pkgname>-->
                 <pkgname>kodi</pkgname>
                 <pkgname>libva-intel-driver</pkgname>
                 <pkgname>libva-utils</pkgname>
+                <pkgname>mdadm</pkgname>
 
             </packages>
         </edition>
